@@ -156,7 +156,7 @@ If nothing is passed on the sharer prop, the component automatically gets the pa
         cssModule={AwesomeButtonStyles}
         type="facebook"
         sharer={{
-          url="https://caferati.me"
+          url="https:// "
         }}
       >
         Button
